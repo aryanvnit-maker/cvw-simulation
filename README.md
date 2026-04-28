@@ -4,7 +4,7 @@ This repository contains the simulation study reported in Section 5.3.1 of:
 
 **Shah, A. (2026).** *Convergent-Validity-Weighted Integration of Multi-Instrument Personality Data*. PsyArXiv preprint.
 
-[Preprint link will go here once live.]
+Shah, A. (2026). *Convergent-Validity-Weighted Integration of Multi-Instrument Personality Data*. Zenodo. https://doi.org/10.5281/zenodo.19842795
 
 ---
 
