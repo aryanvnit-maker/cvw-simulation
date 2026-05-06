@@ -81,7 +81,7 @@ If you use or adapt this simulation, please cite:
 
 ```
 Shah, A. (2026). Convergent-Validity-Weighted Integration of Multi-Instrument
-Personality Data. PsyArXiv preprint. [DOI pending]
+Personality Data. PsyArXiv preprint. (https://zenodo.org/records/19842795)
 ```
 
 ---
